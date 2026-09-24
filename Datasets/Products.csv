@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Therapy_Area,Product_Category,Brand,Unit_Cost,Unit_Price,Launch_Date,Product_Status
+P001,Cardo 200mg,Cardiology,Injection,NovaMed Pharmaceuticals,349.31,595.58,2022-07-10,Active
+P002,Corvasc 100mg,Cardiology,Injection,Sanara Healthcare,184.99,307.25,2018-03-06,Active
+P003,Pulsera 20mg,Cardiology,Tablet,ZenCure Biotech,68.55,136.6,2024-05-27,Active
+P004,Vascor 50mg,Cardiology,Tablet,Sanara Healthcare,47.04,75.31,2023-10-23,Active
+P005,Heartrin 5mg,Cardiology,Capsule,Sanara Healthcare,51.57,81.26,2024-04-16,Active
+P006,Glucera 25mg,Diabetes,Tablet,MedLife Pharma,23.73,53.96,2022-07-18,Active
+P007,Dianorm 25mg,Diabetes,Injection,NovaMed Pharmaceuticals,379.92,860.97,2025-09-03,Active
+P008,Sucrolix 1%,Diabetes,Injection,NovaMed Pharmaceuticals,409.88,760.25,2020-08-18,Active
+P009,Insulex 5mg,Diabetes,Tablet,ZenCure Biotech,23.37,35.91,2022-08-12,Active
+P010,Metforol 5mg,Diabetes,Tablet,Vitalis Labs,74.03,164.91,2025-10-30,Active
+P011,Onconex 2%,Oncology,Tablet,Wellbridge Pharma,62.39,112.99,2020-05-11,Active
+P012,Tumorex 2%,Oncology,Tablet,MedLife Pharma,66.01,96.63,2020-06-14,Active
+P013,Carcinil 10mg,Oncology,Tablet,ZenCure Biotech,27.07,48.18,2017-11-28,Active
+P014,Neoplast 100mg,Oncology,Tablet,CuraGen Life Sciences,64.62,130.23,2022-05-18,Active
+P015,Remicel 200mg,Oncology,Tablet,NovaMed Pharmaceuticals,76.03,104.74,2024-08-10,Active
+P016,Neurocal 100mg,Neurology,Capsule,Sanara Healthcare,60.56,129.99,2021-01-10,Active
+P017,Cerebrix 2%,Neurology,Tablet,NovaMed Pharmaceuticals,53.75,128.54,2022-01-23,Active
+P018,Synaptin 1%,Neurology,Tablet,CuraGen Life Sciences,19.1,35.63,2018-03-28,Active
+P019,Neurolin 5mg,Neurology,Tablet,Vitalis Labs,87.28,204.6,2017-10-23,Active
+P020,Cognivex 25mg,Neurology,Capsule,Wellbridge Pharma,50.25,101.59,2020-08-15,Active
+P021,Pulmovent 20mg,Respiratory,Tablet,ZenCure Biotech,62.06,83.8,2022-10-02,Active
+P022,Bronchial 25mg,Respiratory,Tablet,NovaMed Pharmaceuticals,72.24,154.17,2024-06-21,Active
+P023,Respiron 1%,Respiratory,Tablet,NovaMed Pharmaceuticals,83.13,157.96,2024-10-14,Active
+P024,Airolin 10mg,Respiratory,Syrup,ZenCure Biotech,84.72,203.02,2023-07-28,Active
+P025,Breathex 25mg,Respiratory,Syrup,Vitalis Labs,46.45,106.4,2021-11-30,Active
+P026,Dermacort 5mg,Dermatology,Tablet,MedLife Pharma,70.84,103.49,2016-11-14,Active
+P027,Skinova 50mg,Dermatology,Cream,CuraGen Life Sciences,146.87,301.08,2023-05-18,Active
+P028,Dermalix 10mg,Dermatology,Ointment,Vitalis Labs,156.32,272.47,2022-02-07,Active
+P029,Curaderm 2%,Dermatology,Tablet,Vitalis Labs,35.32,49.29,2024-03-22,Active
+P030,Epidex 1%,Dermatology,Tablet,Sanara Healthcare,42.33,74.03,2024-10-01,Active
+P031,Gastrozol 20mg,Gastroenterology,Syrup,Wellbridge Pharma,69.31,141.03,2017-06-11,Active
+P032,Entrocare 20mg,Gastroenterology,Capsule,CuraGen Life Sciences,24.75,38.1,2017-02-23,Active
+P033,Digestin 20mg,Gastroenterology,Capsule,MedLife Pharma,89.67,159.0,2020-03-25,Active
+P034,Acidex 1%,Gastroenterology,Tablet,Vitalis Labs,69.19,143.1,2024-02-27,Active
+P035,Colonorm 25mg,Gastroenterology,Capsule,NovaMed Pharmaceuticals,109.88,171.55,2017-09-14,Active
+P036,Algofen 20mg,Pain Management,Cream,Vitalis Labs,143.71,246.25,2022-03-02,Active
+P037,Painorex 10mg,Pain Management,Tablet,NovaMed Pharmaceuticals,18.57,36.23,2021-04-04,Active
+P038,Relaxil 100mg,Pain Management,Tablet,Wellbridge Pharma,40.19,61.93,2016-11-04,Active
+P039,Nocipain 5mg,Pain Management,Cream,ZenCure Biotech,212.07,415.7,2024-12-17,Active
+P040,Analgex 2%,Pain Management,Injection,Sanara Healthcare,551.83,990.13,2018-06-18,Active
+P041,Infexol 5mg,Infectious Disease,Syrup,Wellbridge Pharma,81.66,152.41,2023-05-12,Active
+P042,Bactrin 2%,Infectious Disease,Syrup,NovaMed Pharmaceuticals,96.0,186.72,2020-10-09,Discontinued
+P043,Microcil 10mg,Infectious Disease,Injection,MedLife Pharma,441.25,822.33,2020-12-15,Active
+P044,Sepsinorm 25mg,Infectious Disease,Tablet,MedLife Pharma,22.2,39.19,2022-02-15,Active
+P045,Germinex 25mg,Infectious Disease,Syrup,MedLife Pharma,36.85,63.23,2021-07-05,Active
+P046,Psychalm 2%,Psychiatry,Tablet,Sanara Healthcare,76.7,155.77,2017-12-02,Active
+P047,Mindrelax 2%,Psychiatry,Capsule,NovaMed Pharmaceuticals,64.4,120.64,2021-05-30,Active
+P048,Neurotone 200mg,Psychiatry,Capsule,Sanara Healthcare,107.89,252.95,2017-08-03,Active
+P049,Sedaquil 25mg,Psychiatry,Tablet,Wellbridge Pharma,39.43,54.49,2022-10-13,Discontinued
+P050,Calmirex 2%,Psychiatry,Capsule,NovaMed Pharmaceuticals,21.87,38.61,2018-09-12,Active

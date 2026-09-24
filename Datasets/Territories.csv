@@ -1,0 +1,31 @@
+Territory_ID,Territory_Name,Region,State,Sales_Rep_ID,Target_Sales
+T001,Hyderabad Territory,South,Telangana,SR001,10144615
+T002,Lucknow Territory,North,Uttar Pradesh,SR002,6913739
+T003,Kochi Territory,South,Kerala,SR003,6799872
+T004,Bhubaneswar Territory,East,Odisha,SR004,3029130
+T005,New Delhi Territory,North,Delhi,SR005,10338023
+T006,Coimbatore Territory,South,Tamil Nadu,SR006,4005490
+T007,Surat Territory,West,Gujarat,SR007,6990929
+T008,Kanpur Territory,North,Uttar Pradesh,SR008,9330324
+T009,Chennai Territory,South,Tamil Nadu,SR009,4331352
+T010,Indore Territory,Central,Madhya Pradesh,SR010,6982672
+T011,Ahmedabad Territory,West,Gujarat,SR011,4545821
+T012,Mumbai Territory,West,Maharashtra,SR012,8957407
+T013,Patna Territory,East,Bihar,SR013,7296899
+T014,Chandigarh Territory,North,Punjab,SR014,9775794
+T015,Bhopal Territory,Central,Madhya Pradesh,SR015,10103743
+T016,Pune Territory,West,Maharashtra,SR016,8014234
+T017,Gurugram Territory,North,Haryana,SR017,8665825
+T018,Jaipur Territory,North,Rajasthan,SR018,7168370
+T019,Howrah Territory,East,West Bengal,SR019,5767644
+T020,Vijayawada Territory,South,Andhra Pradesh,SR020,8009002
+T021,Nagpur Territory,West,Maharashtra,SR021,10220453
+T022,Kolkata Territory,East,West Bengal,SR022,6041783
+T023,Mysuru Territory,South,Karnataka,SR023,5172485
+T024,Bengaluru Territory,South,Karnataka,SR024,5801713
+T025,Hyderabad Territory,South,Telangana,SR025,6200879
+T026,Lucknow Territory,North,Uttar Pradesh,SR026,3125268
+T027,Kochi Territory,South,Kerala,SR027,6736755
+T028,Bhubaneswar Territory,East,Odisha,SR028,6701671
+T029,New Delhi Territory,North,Delhi,SR029,7501772
+T030,Coimbatore Territory,South,Tamil Nadu,SR030,5583970

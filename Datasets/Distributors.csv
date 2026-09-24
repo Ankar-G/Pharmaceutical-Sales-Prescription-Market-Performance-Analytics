@@ -1,0 +1,101 @@
+Distributor_ID,Distributor_Name,City,State,Region,Distributor_Type
+DT0001,VitalDistrib Mumbai,Mumbai,Maharashtra,West,Retail Pharmacy Chain
+DT0002,RxNetwork New Delhi,New Delhi,Delhi,North,Retail Pharmacy Chain
+DT0003,MediPoint Mumbai,Mumbai,Maharashtra,West,Hospital Supplier
+DT0004,WellStock Chandigarh,Chandigarh,Punjab,North,Hospital Supplier
+DT0005,TrustMed Nagpur,Nagpur,Maharashtra,West,Wholesaler
+DT0006,HealthDistrib Indore,Indore,Madhya Pradesh,Central,Wholesaler
+DT0007,TrustMed Jaipur,Jaipur,Rajasthan,North,Retail Pharmacy Chain
+DT0008,PharmaLink New Delhi,New Delhi,Delhi,North,Wholesaler
+DT0009,WellStock Nagpur,Nagpur,Maharashtra,West,Retail Pharmacy Chain
+DT0010,HealthDistrib Surat,Surat,Gujarat,West,Retail Pharmacy Chain
+DT0011,TrustMed Patna,Patna,Bihar,East,Wholesaler
+DT0012,CareChain Kanpur,Kanpur,Uttar Pradesh,North,Retail Pharmacy Chain
+DT0013,WellStock Chennai,Chennai,Tamil Nadu,South,Hospital Supplier
+DT0014,TrustMed Ahmedabad,Ahmedabad,Gujarat,West,Hospital Supplier
+DT0015,MedSupply Bengaluru,Bengaluru,Karnataka,South,Wholesaler
+DT0016,WellStock Vijayawada,Vijayawada,Andhra Pradesh,South,Hospital Supplier
+DT0017,RxNetwork Chandigarh,Chandigarh,Punjab,North,Retail Pharmacy Chain
+DT0018,PharmaLink Ahmedabad,Ahmedabad,Gujarat,West,Wholesaler
+DT0019,VitalDistrib Coimbatore,Coimbatore,Tamil Nadu,South,Retail Pharmacy Chain
+DT0020,PharmaCore Surat,Surat,Gujarat,West,Hospital Supplier
+DT0021,CareChain Chennai,Chennai,Tamil Nadu,South,Wholesaler
+DT0022,VitalDistrib Mumbai,Mumbai,Maharashtra,West,Hospital Supplier
+DT0023,TrustMed Chennai,Chennai,Tamil Nadu,South,Retail Pharmacy Chain
+DT0024,CareChain Bhubaneswar,Bhubaneswar,Odisha,East,Hospital Supplier
+DT0025,WellStock Surat,Surat,Gujarat,West,Retail Pharmacy Chain
+DT0026,VitalDistrib Pune,Pune,Maharashtra,West,Retail Pharmacy Chain
+DT0027,MediPoint Patna,Patna,Bihar,East,Retail Pharmacy Chain
+DT0028,CareChain Bengaluru,Bengaluru,Karnataka,South,Retail Pharmacy Chain
+DT0029,TrustMed New Delhi,New Delhi,Delhi,North,Wholesaler
+DT0030,RxNetwork Bengaluru,Bengaluru,Karnataka,South,Retail Pharmacy Chain
+DT0031,HealthDistrib Ahmedabad,Ahmedabad,Gujarat,West,Retail Pharmacy Chain
+DT0032,MediPoint Hyderabad,Hyderabad,Telangana,South,Hospital Supplier
+DT0033,MedSupply Kolkata,Kolkata,West Bengal,East,Wholesaler
+DT0034,HealthDistrib Kanpur,Kanpur,Uttar Pradesh,North,Retail Pharmacy Chain
+DT0035,PharmaCore Mysuru,Mysuru,Karnataka,South,Retail Pharmacy Chain
+DT0036,TrustMed Kochi,Kochi,Kerala,South,Wholesaler
+DT0037,TrustMed New Delhi,New Delhi,Delhi,North,Retail Pharmacy Chain
+DT0038,MediPoint Kochi,Kochi,Kerala,South,Retail Pharmacy Chain
+DT0039,VitalDistrib Jaipur,Jaipur,Rajasthan,North,Hospital Supplier
+DT0040,MediPoint Lucknow,Lucknow,Uttar Pradesh,North,Retail Pharmacy Chain
+DT0041,PharmaCore Kolkata,Kolkata,West Bengal,East,Government Supplier
+DT0042,MediPoint Jaipur,Jaipur,Rajasthan,North,Hospital Supplier
+DT0043,HealthDistrib Mumbai,Mumbai,Maharashtra,West,Hospital Supplier
+DT0044,PharmaCore Indore,Indore,Madhya Pradesh,Central,Retail Pharmacy Chain
+DT0045,HealthDistrib Mumbai,Mumbai,Maharashtra,West,Hospital Supplier
+DT0046,TrustMed Nagpur,Nagpur,Maharashtra,West,Government Supplier
+DT0047,PharmaLink Ahmedabad,Ahmedabad,Gujarat,West,Hospital Supplier
+DT0048,PharmaCore Kanpur,Kanpur,Uttar Pradesh,North,Retail Pharmacy Chain
+DT0049,HealthDistrib Mumbai,Mumbai,Maharashtra,West,Retail Pharmacy Chain
+DT0050,RxNetwork Bhubaneswar,Bhubaneswar,Odisha,East,Government Supplier
+DT0051,PharmaLink Vijayawada,Vijayawada,Andhra Pradesh,South,Government Supplier
+DT0052,MediPoint Ahmedabad,Ahmedabad,Gujarat,West,Retail Pharmacy Chain
+DT0053,RxNetwork Kolkata,Kolkata,West Bengal,East,Wholesaler
+DT0054,MedSupply Kanpur,Kanpur,Uttar Pradesh,North,Retail Pharmacy Chain
+DT0055,PharmaLink Mysuru,Mysuru,Karnataka,South,Retail Pharmacy Chain
+DT0056,RxNetwork Kolkata,Kolkata,West Bengal,East,Retail Pharmacy Chain
+DT0057,PharmaCore Bhubaneswar,Bhubaneswar,Odisha,East,Wholesaler
+DT0058,HealthDistrib Gurugram,Gurugram,Haryana,North,Wholesaler
+DT0059,VitalDistrib Bhubaneswar,Bhubaneswar,Odisha,East,Wholesaler
+DT0060,WellStock Bengaluru,Bengaluru,Karnataka,South,Retail Pharmacy Chain
+DT0061,CareChain New Delhi,New Delhi,Delhi,North,Hospital Supplier
+DT0062,PharmaCore Bengaluru,Bengaluru,Karnataka,South,Wholesaler
+DT0063,TrustMed Kolkata,Kolkata,West Bengal,East,Wholesaler
+DT0064,MedSupply Mysuru,Mysuru,Karnataka,South,Wholesaler
+DT0065,VitalDistrib Chennai,Chennai,Tamil Nadu,South,Retail Pharmacy Chain
+DT0066,PharmaCore Surat,Surat,Gujarat,West,Wholesaler
+DT0067,MediPoint Chandigarh,Chandigarh,Punjab,North,Hospital Supplier
+DT0068,VitalDistrib Kanpur,Kanpur,Uttar Pradesh,North,Retail Pharmacy Chain
+DT0069,HealthDistrib Bhopal,Bhopal,Madhya Pradesh,Central,Wholesaler
+DT0070,PharmaCore Mumbai,Mumbai,Maharashtra,West,Retail Pharmacy Chain
+DT0071,PharmaCore Mumbai,Mumbai,Maharashtra,West,Hospital Supplier
+DT0072,RxNetwork Kochi,Kochi,Kerala,South,Wholesaler
+DT0073,VitalDistrib Hyderabad,Hyderabad,Telangana,South,Wholesaler
+DT0074,MediPoint Ahmedabad,Ahmedabad,Gujarat,West,Retail Pharmacy Chain
+DT0075,MediPoint Mumbai,Mumbai,Maharashtra,West,Retail Pharmacy Chain
+DT0076,MedSupply Bengaluru,Bengaluru,Karnataka,South,Wholesaler
+DT0077,PharmaCore Surat,Surat,Gujarat,West,Government Supplier
+DT0078,PharmaLink Indore,Indore,Madhya Pradesh,Central,Hospital Supplier
+DT0079,MedSupply Bhubaneswar,Bhubaneswar,Odisha,East,Hospital Supplier
+DT0080,WellStock Howrah,Howrah,West Bengal,East,Retail Pharmacy Chain
+DT0081,PharmaLink Hyderabad,Hyderabad,Telangana,South,Retail Pharmacy Chain
+DT0082,PharmaLink Bhopal,Bhopal,Madhya Pradesh,Central,Retail Pharmacy Chain
+DT0083,VitalDistrib Hyderabad,Hyderabad,Telangana,South,Wholesaler
+DT0084,MedSupply Hyderabad,Hyderabad,Telangana,South,Retail Pharmacy Chain
+DT0085,TrustMed Patna,Patna,Bihar,East,Government Supplier
+DT0086,PharmaCore Kochi,Kochi,Kerala,South,Wholesaler
+DT0087,MedSupply Bhubaneswar,Bhubaneswar,Odisha,East,Retail Pharmacy Chain
+DT0088,TrustMed New Delhi,New Delhi,Delhi,North,Wholesaler
+DT0089,MedSupply Hyderabad,Hyderabad,Telangana,South,Wholesaler
+DT0090,CareChain Bhopal,Bhopal,Madhya Pradesh,Central,Wholesaler
+DT0091,VitalDistrib Pune,Pune,Maharashtra,West,Wholesaler
+DT0092,TrustMed Kochi,Kochi,Kerala,South,Retail Pharmacy Chain
+DT0093,MediPoint New Delhi,New Delhi,Delhi,North,Retail Pharmacy Chain
+DT0094,PharmaCore Bhopal,Bhopal,Madhya Pradesh,Central,Retail Pharmacy Chain
+DT0095,MedSupply Ahmedabad,Ahmedabad,Gujarat,West,Hospital Supplier
+DT0096,HealthDistrib New Delhi,New Delhi,Delhi,North,Wholesaler
+DT0097,TrustMed Kolkata,Kolkata,West Bengal,East,Retail Pharmacy Chain
+DT0098,WellStock Lucknow,Lucknow,Uttar Pradesh,North,Wholesaler
+DT0099,PharmaLink Surat,Surat,Gujarat,West,Wholesaler
+DT0100,WellStock Coimbatore,Coimbatore,Tamil Nadu,South,Retail Pharmacy Chain

@@ -1,0 +1,301 @@
+Doctor_ID,Doctor_Name,Specialty,City,State,Experience_Years,Doctor_Type
+D0001,Dr. Rahul Iyer,Cardiologist,Chennai,Tamil Nadu,24,Consultant
+D0002,Dr. Nikhil Kapoor,Cardiologist,New Delhi,Delhi,19,Consultant
+D0003,Dr. Radha Khan,Cardiologist,Kanpur,Uttar Pradesh,24,Consultant
+D0004,Dr. Varun Bose,Cardiologist,Pune,Maharashtra,10,Specialist
+D0005,Dr. Naveen Bose,Cardiologist,Ahmedabad,Gujarat,14,Consultant
+D0006,Dr. Arjun Banerjee,Cardiologist,Vijayawada,Andhra Pradesh,11,Specialist
+D0007,Dr. Divya Chauhan,Cardiologist,Pune,Maharashtra,24,Consultant
+D0008,Dr. Aarav Chauhan,Cardiologist,Lucknow,Uttar Pradesh,12,Consultant
+D0009,Dr. Sai Das,Cardiologist,Jaipur,Rajasthan,31,Consultant
+D0010,Dr. Suresh Chauhan,Cardiologist,Bengaluru,Karnataka,13,Consultant
+D0011,Dr. Reyansh Das,Cardiologist,Hyderabad,Telangana,12,Consultant
+D0012,Dr. Yash Iyer,Cardiologist,Mumbai,Maharashtra,6,Specialist
+D0013,Dr. Aisha Reddy,Cardiologist,Chandigarh,Punjab,34,Consultant
+D0014,Dr. Ishaan Kumar,Cardiologist,Mumbai,Maharashtra,26,Consultant
+D0015,Dr. Naveen Das,Cardiologist,Kolkata,West Bengal,29,Consultant
+D0016,Dr. Harish Bose,Cardiologist,Chennai,Tamil Nadu,10,Specialist
+D0017,Dr. Meera Desai,Cardiologist,Bhubaneswar,Odisha,13,Consultant
+D0018,Dr. Nisha Joshi,Cardiologist,Kochi,Kerala,15,Consultant
+D0019,Dr. Gaurav Kaur,Cardiologist,Bengaluru,Karnataka,23,Consultant
+D0020,Dr. Tanya Singh,Cardiologist,Nagpur,Maharashtra,16,Consultant
+D0021,Dr. Aryan Das,Cardiologist,Indore,Madhya Pradesh,5,Specialist
+D0022,Dr. Anjali Mehta,Cardiologist,Nagpur,Maharashtra,24,Consultant
+D0023,Dr. Nikhil Iyer,Cardiologist,Kolkata,West Bengal,16,Consultant
+D0024,Dr. Rahul Menon,Cardiologist,Gurugram,Haryana,26,Consultant
+D0025,Dr. Reyansh Sharma,Cardiologist,New Delhi,Delhi,20,Consultant
+D0026,Dr. Vihaan Khan,Endocrinologist,New Delhi,Delhi,8,Specialist
+D0027,Dr. Suresh Sharma,Endocrinologist,Pune,Maharashtra,16,Consultant
+D0028,Dr. Tanya Kapoor,Endocrinologist,Lucknow,Uttar Pradesh,15,Consultant
+D0029,Dr. Saanvi Shah,Endocrinologist,Pune,Maharashtra,13,Consultant
+D0030,Dr. Myra Desai,Endocrinologist,Chandigarh,Punjab,10,Specialist
+D0031,Dr. Vikram Pillai,Endocrinologist,Chennai,Tamil Nadu,12,Consultant
+D0032,Dr. Rekha Chatterjee,Endocrinologist,Bengaluru,Karnataka,16,Consultant
+D0033,Dr. Suresh Menon,Endocrinologist,Kochi,Kerala,19,Consultant
+D0034,Dr. Kabir Naidu,Endocrinologist,Hyderabad,Telangana,26,Consultant
+D0035,Dr. Naveen Naidu,Endocrinologist,Bengaluru,Karnataka,26,Consultant
+D0036,Dr. Vikram Verma,Endocrinologist,Hyderabad,Telangana,23,Consultant
+D0037,Dr. Aisha Mishra,Endocrinologist,Vijayawada,Andhra Pradesh,12,Consultant
+D0038,Dr. Nikhil Kumar,Endocrinologist,Kochi,Kerala,4,Specialist
+D0039,Dr. Pooja Chatterjee,Endocrinologist,Kolkata,West Bengal,5,Specialist
+D0040,Dr. Krishna Naidu,Endocrinologist,Patna,Bihar,24,Consultant
+D0041,Dr. Deepa Shah,Endocrinologist,Coimbatore,Tamil Nadu,5,Specialist
+D0042,Dr. Ananya Menon,Endocrinologist,Coimbatore,Tamil Nadu,18,Consultant
+D0043,Dr. Aditya Agarwal,Endocrinologist,Hyderabad,Telangana,15,Consultant
+D0044,Dr. Vikram Iyer,Endocrinologist,Patna,Bihar,13,Consultant
+D0045,Dr. Rahul Chauhan,Endocrinologist,Bengaluru,Karnataka,32,Consultant
+D0046,Dr. Varun Joshi,Endocrinologist,Mumbai,Maharashtra,11,Specialist
+D0047,Dr. Varun Ahmed,Endocrinologist,Kochi,Kerala,19,Consultant
+D0048,Dr. Vihaan Das,Endocrinologist,Chennai,Tamil Nadu,22,Consultant
+D0049,Dr. Yash Das,Endocrinologist,New Delhi,Delhi,9,Specialist
+D0050,Dr. Sneha Desai,Endocrinologist,Kolkata,West Bengal,6,Specialist
+D0051,Dr. Riya Verma,Oncologist,Lucknow,Uttar Pradesh,9,Specialist
+D0052,Dr. Vihaan Nair,Oncologist,Surat,Gujarat,16,Consultant
+D0053,Dr. Sneha Kaur,Oncologist,Surat,Gujarat,28,Consultant
+D0054,Dr. Aanya Desai,Oncologist,Bhubaneswar,Odisha,8,Specialist
+D0055,Dr. Riya Das,Oncologist,Bengaluru,Karnataka,20,Consultant
+D0056,Dr. Ayaan Singh,Oncologist,Bhopal,Madhya Pradesh,22,Consultant
+D0057,Dr. Vihaan Chauhan,Oncologist,Mumbai,Maharashtra,16,Consultant
+D0058,Dr. Rohan Malhotra,Oncologist,Bhubaneswar,Odisha,22,Consultant
+D0059,Dr. Arjun Mishra,Oncologist,New Delhi,Delhi,22,Consultant
+D0060,Dr. Preeti Shah,Oncologist,Bengaluru,Karnataka,18,Consultant
+D0061,Dr. Krishna Sharma,Oncologist,Indore,Madhya Pradesh,37,Consultant
+D0062,Dr. Vihaan Chatterjee,Oncologist,Bengaluru,Karnataka,23,Consultant
+D0063,Dr. Neha Joshi,Oncologist,Coimbatore,Tamil Nadu,30,Consultant
+D0064,Dr. Karthik Mehta,Oncologist,Ahmedabad,Gujarat,4,Specialist
+D0065,Dr. Rahul Joshi,Oncologist,Mumbai,Maharashtra,5,Specialist
+D0066,Dr. Vivaan Das,Oncologist,Chennai,Tamil Nadu,10,Specialist
+D0067,Dr. Vivaan Joshi,Oncologist,Chandigarh,Punjab,28,Consultant
+D0068,Dr. Rahul Iyer,Oncologist,Chennai,Tamil Nadu,15,Consultant
+D0069,Dr. Isha Kumar,Oncologist,Chandigarh,Punjab,10,Specialist
+D0070,Dr. Gaurav Desai,Oncologist,Bengaluru,Karnataka,16,Consultant
+D0071,Dr. Ananya Kapoor,Oncologist,Chennai,Tamil Nadu,3,Specialist
+D0072,Dr. Karthik Rao,Oncologist,Bhubaneswar,Odisha,4,Specialist
+D0073,Dr. Naveen Kaur,Oncologist,Kolkata,West Bengal,6,Specialist
+D0074,Dr. Naveen Naidu,Oncologist,Pune,Maharashtra,20,Consultant
+D0075,Dr. Kabir Verma,Oncologist,Kolkata,West Bengal,27,Consultant
+D0076,Dr. Yash Das,Neurologist,Bhubaneswar,Odisha,11,Specialist
+D0077,Dr. Kriti Bhat,Neurologist,Jaipur,Rajasthan,24,Consultant
+D0078,Dr. Sunita Ahmed,Neurologist,Pune,Maharashtra,11,Specialist
+D0079,Dr. Yash Kumar,Neurologist,Hyderabad,Telangana,12,Consultant
+D0080,Dr. Yash Kaur,Neurologist,Hyderabad,Telangana,19,Consultant
+D0081,Dr. Karthik Rao,Neurologist,Chennai,Tamil Nadu,8,Specialist
+D0082,Dr. Arjun Malhotra,Neurologist,Vijayawada,Andhra Pradesh,13,Consultant
+D0083,Dr. Anjali Kaur,Neurologist,Bhubaneswar,Odisha,13,Consultant
+D0084,Dr. Suresh Naidu,Neurologist,Pune,Maharashtra,13,Consultant
+D0085,Dr. Karthik Das,Neurologist,Bengaluru,Karnataka,16,Consultant
+D0086,Dr. Sameer Chatterjee,Neurologist,Bengaluru,Karnataka,32,Consultant
+D0087,Dr. Shreya Reddy,Neurologist,Chennai,Tamil Nadu,7,Specialist
+D0088,Dr. Lakshmi Agarwal,Neurologist,Nagpur,Maharashtra,6,Specialist
+D0089,Dr. Krishna Joshi,Neurologist,Chennai,Tamil Nadu,13,Consultant
+D0090,Dr. Suresh Khan,Neurologist,Hyderabad,Telangana,15,Consultant
+D0091,Dr. Pooja Mehta,Neurologist,Coimbatore,Tamil Nadu,8,Specialist
+D0092,Dr. Shreya Kaur,Neurologist,Ahmedabad,Gujarat,12,Consultant
+D0093,Dr. Deepa Mishra,Neurologist,Chennai,Tamil Nadu,13,Consultant
+D0094,Dr. Yash Bhat,Neurologist,Mumbai,Maharashtra,26,Consultant
+D0095,Dr. Anjali Rao,Neurologist,Mumbai,Maharashtra,24,Consultant
+D0096,Dr. Reyansh Patel,Neurologist,Pune,Maharashtra,18,Consultant
+D0097,Dr. Suresh Desai,Neurologist,Bengaluru,Karnataka,18,Consultant
+D0098,Dr. Karthik Bose,Neurologist,Kanpur,Uttar Pradesh,5,Specialist
+D0099,Dr. Harish Mishra,Neurologist,Kolkata,West Bengal,18,Consultant
+D0100,Dr. Ishaan Ahmed,Neurologist,Patna,Bihar,17,Consultant
+D0101,Dr. Harish Shah,Pulmonologist,Gurugram,Haryana,12,Consultant
+D0102,Dr. Meera Chauhan,Pulmonologist,Mysuru,Karnataka,16,Consultant
+D0103,Dr. Tanya Patel,Pulmonologist,Mumbai,Maharashtra,24,Consultant
+D0104,Dr. Ishaan Sharma,Pulmonologist,Nagpur,Maharashtra,32,Consultant
+D0105,Dr. Harish Shah,Pulmonologist,New Delhi,Delhi,21,Consultant
+D0106,Dr. Varun Bose,Pulmonologist,New Delhi,Delhi,8,Specialist
+D0107,Dr. Pranav Verma,Pulmonologist,Indore,Madhya Pradesh,19,Consultant
+D0108,Dr. Kabir Nair,Pulmonologist,Pune,Maharashtra,12,Consultant
+D0109,Dr. Gaurav Kaur,Pulmonologist,Ahmedabad,Gujarat,15,Consultant
+D0110,Dr. Varun Reddy,Pulmonologist,Kochi,Kerala,19,Consultant
+D0111,Dr. Diya Bhat,Pulmonologist,Indore,Madhya Pradesh,5,Specialist
+D0112,Dr. Aarav Verma,Pulmonologist,Jaipur,Rajasthan,7,Specialist
+D0113,Dr. Ira Kumar,Pulmonologist,Kolkata,West Bengal,7,Specialist
+D0114,Dr. Preeti Gupta,Pulmonologist,Chandigarh,Punjab,4,Specialist
+D0115,Dr. Neha Banerjee,Pulmonologist,Lucknow,Uttar Pradesh,15,Consultant
+D0116,Dr. Suresh Banerjee,Pulmonologist,Mumbai,Maharashtra,16,Consultant
+D0117,Dr. Harish Bhat,Pulmonologist,Indore,Madhya Pradesh,3,Specialist
+D0118,Dr. Kavya Iyer,Pulmonologist,Lucknow,Uttar Pradesh,5,Specialist
+D0119,Dr. Sameer Mishra,Pulmonologist,Mumbai,Maharashtra,21,Consultant
+D0120,Dr. Suresh Khan,Pulmonologist,Bengaluru,Karnataka,13,Consultant
+D0121,Dr. Deepa Mishra,Pulmonologist,New Delhi,Delhi,11,Specialist
+D0122,Dr. Rahul Banerjee,Pulmonologist,Bhubaneswar,Odisha,12,Consultant
+D0123,Dr. Aryan Iyer,Pulmonologist,Kochi,Kerala,12,Consultant
+D0124,Dr. Riya Kumar,Pulmonologist,Bhopal,Madhya Pradesh,6,Specialist
+D0125,Dr. Kavita Das,Pulmonologist,Patna,Bihar,11,Specialist
+D0126,Dr. Kavita Patel,Dermatologist,Nagpur,Maharashtra,13,Consultant
+D0127,Dr. Isha Nair,Dermatologist,Mysuru,Karnataka,15,Consultant
+D0128,Dr. Ishaan Mehta,Dermatologist,Patna,Bihar,12,Consultant
+D0129,Dr. Kabir Ahmed,Dermatologist,Coimbatore,Tamil Nadu,14,Consultant
+D0130,Dr. Divya Naidu,Dermatologist,Bengaluru,Karnataka,14,Consultant
+D0131,Dr. Sai Kumar,Dermatologist,Coimbatore,Tamil Nadu,12,Consultant
+D0132,Dr. Rahul Chauhan,Dermatologist,Bengaluru,Karnataka,20,Consultant
+D0133,Dr. Kabir Banerjee,Dermatologist,New Delhi,Delhi,5,Specialist
+D0134,Dr. Saanvi Singh,Dermatologist,Gurugram,Haryana,14,Consultant
+D0135,Dr. Ayaan Khan,Dermatologist,Mysuru,Karnataka,38,Consultant
+D0136,Dr. Manish Banerjee,Dermatologist,Chandigarh,Punjab,9,Specialist
+D0137,Dr. Swati Bhat,Dermatologist,Hyderabad,Telangana,12,Consultant
+D0138,Dr. Diya Agarwal,Dermatologist,Ahmedabad,Gujarat,16,Consultant
+D0139,Dr. Radha Patel,Dermatologist,Jaipur,Rajasthan,10,Specialist
+D0140,Dr. Dhruv Shah,Dermatologist,Chennai,Tamil Nadu,21,Consultant
+D0141,Dr. Sunita Singh,Dermatologist,Patna,Bihar,3,Specialist
+D0142,Dr. Radha Iyer,Dermatologist,Kolkata,West Bengal,36,Consultant
+D0143,Dr. Rohan Ahmed,Dermatologist,New Delhi,Delhi,16,Consultant
+D0144,Dr. Aarav Mishra,Dermatologist,Patna,Bihar,19,Consultant
+D0145,Dr. Fatima Mishra,Dermatologist,Hyderabad,Telangana,8,Specialist
+D0146,Dr. Arjun Mishra,Dermatologist,Ahmedabad,Gujarat,26,Consultant
+D0147,Dr. Kavya Shah,Dermatologist,Gurugram,Haryana,9,Specialist
+D0148,Dr. Pranav Reddy,Dermatologist,Ahmedabad,Gujarat,21,Consultant
+D0149,Dr. Lakshmi Kumar,Dermatologist,Chandigarh,Punjab,16,Consultant
+D0150,Dr. Deepa Malhotra,Dermatologist,Hyderabad,Telangana,14,Consultant
+D0151,Dr. Vihaan Mehta,Gastroenterologist,Mumbai,Maharashtra,6,Specialist
+D0152,Dr. Swati Desai,Gastroenterologist,New Delhi,Delhi,8,Specialist
+D0153,Dr. Divya Bhat,Gastroenterologist,Vijayawada,Andhra Pradesh,5,Specialist
+D0154,Dr. Harish Kumar,Gastroenterologist,Pune,Maharashtra,15,Consultant
+D0155,Dr. Aisha Mishra,Gastroenterologist,Bhopal,Madhya Pradesh,19,Consultant
+D0156,Dr. Swati Reddy,Gastroenterologist,Bengaluru,Karnataka,36,Consultant
+D0157,Dr. Anjali Gupta,Gastroenterologist,Kolkata,West Bengal,15,Consultant
+D0158,Dr. Aryan Bhat,Gastroenterologist,Chandigarh,Punjab,18,Consultant
+D0159,Dr. Kavita Kumar,Gastroenterologist,Chennai,Tamil Nadu,12,Consultant
+D0160,Dr. Aarav Desai,Gastroenterologist,Pune,Maharashtra,18,Consultant
+D0161,Dr. Manish Reddy,Gastroenterologist,Mumbai,Maharashtra,28,Consultant
+D0162,Dr. Rekha Malhotra,Gastroenterologist,Bhubaneswar,Odisha,12,Consultant
+D0163,Dr. Dhruv Rao,Gastroenterologist,Hyderabad,Telangana,24,Consultant
+D0164,Dr. Riya Joshi,Gastroenterologist,Surat,Gujarat,22,Consultant
+D0165,Dr. Krishna Patel,Gastroenterologist,Bhopal,Madhya Pradesh,22,Consultant
+D0166,Dr. Vikram Khan,Gastroenterologist,Coimbatore,Tamil Nadu,10,Specialist
+D0167,Dr. Saanvi Ahmed,Gastroenterologist,Chennai,Tamil Nadu,27,Consultant
+D0168,Dr. Neha Kaur,Gastroenterologist,Mumbai,Maharashtra,14,Consultant
+D0169,Dr. Pooja Menon,Gastroenterologist,Pune,Maharashtra,14,Consultant
+D0170,Dr. Saanvi Mehta,Gastroenterologist,Gurugram,Haryana,14,Consultant
+D0171,Dr. Yash Khan,Gastroenterologist,Indore,Madhya Pradesh,13,Consultant
+D0172,Dr. Aditya Rao,Gastroenterologist,Kochi,Kerala,11,Specialist
+D0173,Dr. Ayaan Reddy,Gastroenterologist,Hyderabad,Telangana,10,Specialist
+D0174,Dr. Dhruv Khan,Gastroenterologist,Chandigarh,Punjab,9,Specialist
+D0175,Dr. Kavya Sharma,Gastroenterologist,Ahmedabad,Gujarat,9,Specialist
+D0176,Dr. Fatima Naidu,Orthopedic Specialist,Bengaluru,Karnataka,18,Consultant
+D0177,Dr. Lakshmi Patel,Orthopedic Specialist,Lucknow,Uttar Pradesh,23,Consultant
+D0178,Dr. Pooja Rao,Orthopedic Specialist,Kolkata,West Bengal,24,Consultant
+D0179,Dr. Naveen Reddy,Orthopedic Specialist,Kolkata,West Bengal,13,Consultant
+D0180,Dr. Aryan Bose,Orthopedic Specialist,Hyderabad,Telangana,18,Consultant
+D0181,Dr. Saanvi Gupta,Orthopedic Specialist,Kochi,Kerala,24,Consultant
+D0182,Dr. Ananya Joshi,Orthopedic Specialist,Mumbai,Maharashtra,12,Consultant
+D0183,Dr. Rajesh Pillai,Orthopedic Specialist,Chennai,Tamil Nadu,4,Specialist
+D0184,Dr. Siddharth Mishra,Orthopedic Specialist,Bhopal,Madhya Pradesh,10,Specialist
+D0185,Dr. Suresh Menon,Orthopedic Specialist,Gurugram,Haryana,7,Specialist
+D0186,Dr. Rajesh Rao,Orthopedic Specialist,Bhopal,Madhya Pradesh,7,Specialist
+D0187,Dr. Naveen Khan,Orthopedic Specialist,New Delhi,Delhi,8,Specialist
+D0188,Dr. Priya Bhat,Orthopedic Specialist,Patna,Bihar,16,Consultant
+D0189,Dr. Reyansh Bose,Orthopedic Specialist,Bhubaneswar,Odisha,3,Specialist
+D0190,Dr. Kriti Rao,Orthopedic Specialist,Patna,Bihar,32,Consultant
+D0191,Dr. Priya Bhat,Orthopedic Specialist,New Delhi,Delhi,12,Consultant
+D0192,Dr. Neha Reddy,Orthopedic Specialist,Gurugram,Haryana,2,Specialist
+D0193,Dr. Reyansh Sharma,Orthopedic Specialist,Kolkata,West Bengal,9,Specialist
+D0194,Dr. Kabir Patel,Orthopedic Specialist,Kolkata,West Bengal,15,Consultant
+D0195,Dr. Fatima Patel,Orthopedic Specialist,Kochi,Kerala,15,Consultant
+D0196,Dr. Suresh Malhotra,Orthopedic Specialist,Vijayawada,Andhra Pradesh,8,Specialist
+D0197,Dr. Aarav Menon,Orthopedic Specialist,Hyderabad,Telangana,29,Consultant
+D0198,Dr. Vivaan Agarwal,Orthopedic Specialist,Bengaluru,Karnataka,21,Consultant
+D0199,Dr. Ishaan Agarwal,Orthopedic Specialist,Bengaluru,Karnataka,5,Specialist
+D0200,Dr. Karthik Bhat,Orthopedic Specialist,Ahmedabad,Gujarat,17,Consultant
+D0201,Dr. Ira Iyer,Infectious Disease Specialist,Coimbatore,Tamil Nadu,6,Specialist
+D0202,Dr. Vihaan Kumar,Infectious Disease Specialist,Coimbatore,Tamil Nadu,14,Consultant
+D0203,Dr. Divya Mishra,Infectious Disease Specialist,Mumbai,Maharashtra,27,Consultant
+D0204,Dr. Aryan Chauhan,Infectious Disease Specialist,Vijayawada,Andhra Pradesh,24,Consultant
+D0205,Dr. Kriti Agarwal,Infectious Disease Specialist,Ahmedabad,Gujarat,18,Consultant
+D0206,Dr. Diya Sharma,Infectious Disease Specialist,Indore,Madhya Pradesh,38,Consultant
+D0207,Dr. Aryan Das,Infectious Disease Specialist,Kolkata,West Bengal,5,Specialist
+D0208,Dr. Dhruv Chauhan,Infectious Disease Specialist,Mysuru,Karnataka,10,Specialist
+D0209,Dr. Pranav Naidu,Infectious Disease Specialist,Jaipur,Rajasthan,12,Consultant
+D0210,Dr. Krishna Mehta,Infectious Disease Specialist,Bhubaneswar,Odisha,22,Consultant
+D0211,Dr. Rahul Mishra,Infectious Disease Specialist,Vijayawada,Andhra Pradesh,37,Consultant
+D0212,Dr. Nikhil Nair,Infectious Disease Specialist,Surat,Gujarat,35,Consultant
+D0213,Dr. Rajesh Pillai,Infectious Disease Specialist,Kochi,Kerala,18,Consultant
+D0214,Dr. Kabir Iyer,Infectious Disease Specialist,Vijayawada,Andhra Pradesh,10,Specialist
+D0215,Dr. Reyansh Menon,Infectious Disease Specialist,Gurugram,Haryana,21,Consultant
+D0216,Dr. Swati Mehta,Infectious Disease Specialist,Gurugram,Haryana,25,Consultant
+D0217,Dr. Fatima Bose,Infectious Disease Specialist,Howrah,West Bengal,8,Specialist
+D0218,Dr. Pranav Mehta,Infectious Disease Specialist,Pune,Maharashtra,4,Specialist
+D0219,Dr. Deepa Mishra,Infectious Disease Specialist,Vijayawada,Andhra Pradesh,10,Specialist
+D0220,Dr. Vivaan Bose,Infectious Disease Specialist,Mysuru,Karnataka,18,Consultant
+D0221,Dr. Riya Bhat,Infectious Disease Specialist,Mumbai,Maharashtra,18,Consultant
+D0222,Dr. Deepa Nair,Infectious Disease Specialist,Kanpur,Uttar Pradesh,12,Consultant
+D0223,Dr. Siddharth Chauhan,Infectious Disease Specialist,Lucknow,Uttar Pradesh,18,Consultant
+D0224,Dr. Pooja Verma,Infectious Disease Specialist,Kolkata,West Bengal,8,Specialist
+D0225,Dr. Vihaan Patel,Infectious Disease Specialist,Howrah,West Bengal,16,Consultant
+D0226,Dr. Rahul Mehta,Psychiatrist,Hyderabad,Telangana,5,Specialist
+D0227,Dr. Nikhil Bose,Psychiatrist,Chennai,Tamil Nadu,23,Consultant
+D0228,Dr. Pranav Mishra,Psychiatrist,Mysuru,Karnataka,27,Consultant
+D0229,Dr. Nikhil Singh,Psychiatrist,Pune,Maharashtra,25,Consultant
+D0230,Dr. Shreya Menon,Psychiatrist,Bhubaneswar,Odisha,11,Specialist
+D0231,Dr. Sai Ahmed,Psychiatrist,New Delhi,Delhi,33,Consultant
+D0232,Dr. Saanvi Iyer,Psychiatrist,Chennai,Tamil Nadu,34,Consultant
+D0233,Dr. Ishaan Ahmed,Psychiatrist,Bhubaneswar,Odisha,22,Consultant
+D0234,Dr. Harish Reddy,Psychiatrist,New Delhi,Delhi,27,Consultant
+D0235,Dr. Swati Mehta,Psychiatrist,New Delhi,Delhi,20,Consultant
+D0236,Dr. Suresh Joshi,Psychiatrist,Bhopal,Madhya Pradesh,6,Specialist
+D0237,Dr. Aarav Pillai,Psychiatrist,New Delhi,Delhi,23,Consultant
+D0238,Dr. Ananya Bose,Psychiatrist,Mysuru,Karnataka,12,Consultant
+D0239,Dr. Kavya Desai,Psychiatrist,Bhopal,Madhya Pradesh,16,Consultant
+D0240,Dr. Sai Banerjee,Psychiatrist,New Delhi,Delhi,11,Specialist
+D0241,Dr. Aditya Chauhan,Psychiatrist,Howrah,West Bengal,21,Consultant
+D0242,Dr. Myra Das,Psychiatrist,Chennai,Tamil Nadu,8,Specialist
+D0243,Dr. Siddharth Iyer,Psychiatrist,Surat,Gujarat,34,Consultant
+D0244,Dr. Saanvi Sharma,Psychiatrist,Chennai,Tamil Nadu,5,Specialist
+D0245,Dr. Harish Agarwal,Psychiatrist,Surat,Gujarat,21,Consultant
+D0246,Dr. Pooja Malhotra,Psychiatrist,Coimbatore,Tamil Nadu,10,Specialist
+D0247,Dr. Kriti Chauhan,Psychiatrist,New Delhi,Delhi,11,Specialist
+D0248,Dr. Vihaan Malhotra,Psychiatrist,Gurugram,Haryana,24,Consultant
+D0249,Dr. Pooja Kumar,Psychiatrist,Patna,Bihar,17,Consultant
+D0250,Dr. Kavita Mishra,Psychiatrist,Lucknow,Uttar Pradesh,10,Specialist
+D0251,Dr. Nisha Nair,General Physician,New Delhi,Delhi,8,General Physician
+D0252,Dr. Vihaan Kaur,General Physician,Jaipur,Rajasthan,23,General Physician
+D0253,Dr. Riya Kaur,General Physician,Chennai,Tamil Nadu,17,General Physician
+D0254,Dr. Arjun Naidu,General Physician,Mumbai,Maharashtra,16,General Physician
+D0255,Dr. Tanya Gupta,General Physician,Chandigarh,Punjab,2,General Physician
+D0256,Dr. Krishna Patel,General Physician,Chennai,Tamil Nadu,7,General Physician
+D0257,Dr. Preeti Das,General Physician,Hyderabad,Telangana,22,General Physician
+D0258,Dr. Naveen Rao,General Physician,Mumbai,Maharashtra,12,General Physician
+D0259,Dr. Vikram Das,General Physician,Chennai,Tamil Nadu,16,General Physician
+D0260,Dr. Vikram Malhotra,General Physician,Indore,Madhya Pradesh,9,General Physician
+D0261,Dr. Aditya Menon,General Physician,Mumbai,Maharashtra,20,General Physician
+D0262,Dr. Kavita Kaur,General Physician,Coimbatore,Tamil Nadu,26,General Physician
+D0263,Dr. Aisha Chauhan,General Physician,Ahmedabad,Gujarat,5,General Physician
+D0264,Dr. Sneha Chauhan,General Physician,Pune,Maharashtra,8,General Physician
+D0265,Dr. Ayaan Pillai,General Physician,Nagpur,Maharashtra,25,General Physician
+D0266,Dr. Nikhil Banerjee,General Physician,Ahmedabad,Gujarat,3,General Physician
+D0267,Dr. Kabir Joshi,General Physician,New Delhi,Delhi,28,General Physician
+D0268,Dr. Ira Desai,General Physician,Jaipur,Rajasthan,35,General Physician
+D0269,Dr. Ayaan Kapoor,General Physician,Nagpur,Maharashtra,7,General Physician
+D0270,Dr. Manish Bose,General Physician,Kolkata,West Bengal,6,General Physician
+D0271,Dr. Sameer Kumar,General Physician,Gurugram,Haryana,15,General Physician
+D0272,Dr. Radha Patel,General Physician,Kochi,Kerala,11,General Physician
+D0273,Dr. Sunita Nair,General Physician,Patna,Bihar,4,General Physician
+D0274,Dr. Anjali Malhotra,General Physician,New Delhi,Delhi,2,General Physician
+D0275,Dr. Ira Shah,General Physician,Jaipur,Rajasthan,19,General Physician
+D0276,Dr. Arjun Mishra,General Physician,Kochi,Kerala,11,General Physician
+D0277,Dr. Priya Nair,General Physician,Kanpur,Uttar Pradesh,23,General Physician
+D0278,Dr. Radha Banerjee,General Physician,New Delhi,Delhi,23,General Physician
+D0279,Dr. Rohan Pillai,General Physician,Hyderabad,Telangana,5,General Physician
+D0280,Dr. Yash Verma,General Physician,Kolkata,West Bengal,5,General Physician
+D0281,Dr. Fatima Verma,General Physician,Bengaluru,Karnataka,19,General Physician
+D0282,Dr. Sameer Bose,General Physician,Bengaluru,Karnataka,19,General Physician
+D0283,Dr. Nikhil Chauhan,General Physician,Lucknow,Uttar Pradesh,16,General Physician
+D0284,Dr. Swati Mehta,General Physician,Chennai,Tamil Nadu,20,General Physician
+D0285,Dr. Yash Gupta,General Physician,Nagpur,Maharashtra,21,General Physician
+D0286,Dr. Aanya Iyer,General Physician,Bhopal,Madhya Pradesh,8,General Physician
+D0287,Dr. Pooja Reddy,General Physician,Patna,Bihar,14,General Physician
+D0288,Dr. Swati Das,General Physician,Mumbai,Maharashtra,21,General Physician
+D0289,Dr. Karthik Banerjee,General Physician,Mumbai,Maharashtra,10,General Physician
+D0290,Dr. Riya Joshi,General Physician,Mumbai,Maharashtra,7,General Physician
+D0291,Dr. Deepa Chauhan,General Physician,Nagpur,Maharashtra,18,General Physician
+D0292,Dr. Gaurav Mehta,General Physician,Kolkata,West Bengal,6,General Physician
+D0293,Dr. Siddharth Ahmed,General Physician,Kanpur,Uttar Pradesh,17,General Physician
+D0294,Dr. Isha Reddy,General Physician,Bengaluru,Karnataka,7,General Physician
+D0295,Dr. Aryan Mehta,General Physician,Bhopal,Madhya Pradesh,5,General Physician
+D0296,Dr. Myra Bose,General Physician,Chennai,Tamil Nadu,7,General Physician
+D0297,Dr. Aarav Das,General Physician,Mumbai,Maharashtra,3,General Physician
+D0298,Dr. Krishna Malhotra,General Physician,Gurugram,Haryana,3,General Physician
+D0299,Dr. Rajesh Das,General Physician,Vijayawada,Andhra Pradesh,5,General Physician
+D0300,Dr. Kavita Kapoor,General Physician,Pune,Maharashtra,9,General Physician
