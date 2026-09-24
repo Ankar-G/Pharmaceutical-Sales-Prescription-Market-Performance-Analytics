@@ -527,13 +527,13 @@ pharmaceutical-sales-commercial-analytics/
 ![Executive Commercial Overview](https://github.com/Ankar-G/Pharmaceutical-Sales-Prescription-Market-Performance-Analytics/blob/main/Dashbaords%20Screenshots/Screenshot%202026-09-24%20135544.png)
 
 ### Product & Therapy Performance
-![Product & Therapy Performance](Screenshots/product-therapy-performance.png)
+![Product & Therapy Performance](https://github.com/Ankar-G/Pharmaceutical-Sales-Prescription-Market-Performance-Analytics/blob/main/Dashbaords%20Screenshots/Screenshot%202026-09-24%20135601.png)
 
 ### Doctor & Prescription Analytics
-![Doctor & Prescription Analytics](Screenshots/doctor-prescription-analytics.png)
+![Doctor & Prescription Analytics](https://github.com/Ankar-G/Pharmaceutical-Sales-Prescription-Market-Performance-Analytics/blob/main/Dashbaords%20Screenshots/Screenshot%202026-09-24%20135616.png)
 
 ### Territory, Distributor & Sales Force Performance
-![Territory, Distributor & Sales Force Performance](Screenshots/territory-distributor-sales-force.png)
+![Territory, Distributor & Sales Force Performance](https://github.com/Ankar-G/Pharmaceutical-Sales-Prescription-Market-Performance-Analytics/blob/main/Dashbaords%20Screenshots/Screenshot%202026-09-24%20135632.png)
 
 ---
 
