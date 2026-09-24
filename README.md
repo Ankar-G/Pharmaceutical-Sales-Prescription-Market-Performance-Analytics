@@ -1,4 +1,4 @@
-# 💊 Pharmaceutical Sales & Commercial Analytics — SQL + Power BI
+# 💊 Pharmaceutical Sales & Commercial Analytics — Power BI
 
 An end-to-end commercial analytics project analyzing pharmaceutical sales, prescriptions, products, doctors, territories, and distributors to support data-driven decisions for sales and commercial teams.
 
@@ -524,7 +524,7 @@ pharmaceutical-sales-commercial-analytics/
 ## 🖼️ Dashboard Preview
 
 ### Executive Commercial Overview
-![Executive Commercial Overview](Screenshots/executive-commercial-overview.png)
+![Executive Commercial Overview](https://github.com/Ankar-G/Pharmaceutical-Sales-Prescription-Market-Performance-Analytics/blob/main/Dashbaords%20Screenshots/Screenshot%202026-09-24%20135544.png)
 
 ### Product & Therapy Performance
 ![Product & Therapy Performance](Screenshots/product-therapy-performance.png)
