@@ -1,10 +1,10 @@
-💊 Pharmaceutical Sales & Commercial Analytics — SQL + Power BI
+💊 Pharmaceutical Sales & Commercial Analytics — Power BI
 
 An end-to-end commercial analytics project analyzing pharmaceutical sales, prescriptions, products, doctors, territories, and distributors to support data-driven decisions for sales and commercial teams.
 
 📖 Project Overview
 
-This project simulates a real-world pharmaceutical commercial analytics environment. It combines SQL for data validation and analysis with Power BI for interactive dashboard reporting, covering the full journey from raw relational data to business-ready insights.
+This project simulates a real-world pharmaceutical commercial analytics environment. It combines for data validation and analysis with Power BI for interactive dashboard reporting, covering the full journey from raw relational data to business-ready insights.
 
 The analysis spans eight interconnected areas of the pharma commercial business: customers, doctors, products, sales transactions, prescriptions, distributors, territories, and time. Together, these datasets make it possible to evaluate revenue, profitability, prescription behavior, and sales-force performance from multiple angles.
 
@@ -19,7 +19,7 @@ Are prescription trends translating into sales?
 Which territories are hitting their targets, and which ones need attention?
 Which distributors are performing well, and which are underdelivering?
 
-This project addresses that gap by building a structured SQL + Power BI solution that consolidates commercial data into clear, actionable dashboards.
+This project addresses that gap by building a structured Power BI solution that consolidates commercial data into clear, actionable dashboards.
 
 🎯 Business Objectives
 
